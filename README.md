@@ -18,7 +18,6 @@ I'm an **AI Solutions Engineer** based in India, specializing in building produc
 - 🔭 Currently building **AI automation pipelines** and **voice AI agents** at Brightgeeks Technologies
 - 🛠️ Passionate about **Agentic Workflows**, **LLMs**, and **end to end MLOps**
 - 🌐 Led a team of 6+ engineers delivering GenAI products
-- 🗾 JLPT N5 Certified: learning Japanese because great engineers communicate across cultures
 
 ---
 
@@ -72,16 +71,6 @@ Savitribai Phule Pune University (SPPU) · June 2024
 ![](https://nirzak-streak-stats.vercel.app/?user=priya21032002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priya21032002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🌱 Currently Exploring
-
-- 🔗 **Multi Agent Orchestration** with LangGraph
-- 📦 **LLMOps**:  model versioning, evaluation, and monitoring in production
-- 🧪 **Fine-tuning open-source LLMs** for domain specific tasks
-- 🗾 **Japanese N4**: leveling up beyond N5!
 
 ---
 
