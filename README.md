@@ -28,7 +28,7 @@ Hybrid retrieval (BM25 + dense) with reranking. 45 % citation accuracy
 on a 50 question benchmark.
 **Stack:** LangGraph · ChromaDB · Gemini · Streamlit
 ### [earning Companion
-Production LLM-powered learning assistant. CI/CD pipeline with Jenkins 
+Production LLM powered learning assistant. CI/CD pipeline with Jenkins 
 and ArgoCD GitOps sync, deployed on Minikube K8s.
 **Stack:** Groq · Docker · Kubernetes · ArgoCD · GCP
 ### Celebrity Detector
