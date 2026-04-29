@@ -29,7 +29,7 @@ on a 50 question benchmark.
 **Stack:** LangGraph · ChromaDB · Gemini · Streamlit
 ### [earning Companion
 Production LLM-powered learning assistant. CI/CD pipeline with Jenkins 
-ArgoCD GitOps sync, deployed on Minikube K8s.
+and ArgoCD GitOps sync, deployed on Minikube K8s.
 **Stack:** Groq · Docker · Kubernetes · ArgoCD · GCP
 ### Celebrity Detector
 End-to-end CV pipeline. CNN trained to 90%+ accuracy. Containerized 
