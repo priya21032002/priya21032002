@@ -22,16 +22,16 @@ I am an **AI Solutions Engineer** based in India, specializing in building produ
 ---
 
 ## 📌 Featured Projects
-### [Equity Research Analyst]
+### Equity Research Analyst
 Multi-agent system for SEC filing analysis using LangGraph. 
 Hybrid retrieval (BM25 + dense) with reranking. 45 % citation accuracy 
 on a 50 question benchmark.
 **Stack:** LangGraph · ChromaDB · Gemini · Streamlit
-### [Learning Companion]
+### [earning Companion
 Production LLM-powered learning assistant. CI/CD pipeline with Jenkins 
-+ ArgoCD GitOps sync, deployed on Minikube K8s.
+ArgoCD GitOps sync, deployed on Minikube K8s.
 **Stack:** Groq · Docker · Kubernetes · ArgoCD · GCP
-### [Celebrity Detector]
+### Celebrity Detector
 End-to-end CV pipeline. CNN trained to 90%+ accuracy. Containerized 
 deployment on GKE via CircleCI.
 **Stack:** TensorFlow · OpenCV · GKE · CircleCI
