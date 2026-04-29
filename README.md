@@ -13,11 +13,28 @@
 
 ## 🧠 About Me
 
-I'm an **AI Solutions Engineer** based in India, specializing in building production grade AI systems that solve real business problems. From designing intelligent voice bots to orchestrating multi agent RAG pipelines, I turn complex AI concepts into scalable, deployable systems.
+I am an **AI Solutions Engineer** based in India, specializing in building production grade AI systems that solve real business problems. From designing intelligent voice bots to orchestrating multi agent RAG pipelines, I turn complex AI concepts into scalable, deployable systems.
 
 - 🔭 Currently building **AI automation pipelines** and **voice AI agents** at Brightgeeks Technologies
 - 🛠️ Passionate about **Agentic Workflows**, **LLMs**, and **end to end MLOps**
 - 🌐 Led a team of 6+ engineers delivering GenAI products
+
+---
+
+## 📌 Featured Projects
+### [Equity Research Analyst]
+Multi-agent system for SEC filing analysis using LangGraph. 
+Hybrid retrieval (BM25 + dense) with reranking. 45 % citation accuracy 
+on a 50 question benchmark.
+**Stack:** LangGraph · ChromaDB · Gemini · Streamlit
+### [Learning Companion]
+Production LLM-powered learning assistant. CI/CD pipeline with Jenkins 
++ ArgoCD GitOps sync, deployed on Minikube K8s.
+**Stack:** Groq · Docker · Kubernetes · ArgoCD · GCP
+### [Celebrity Detector]
+End-to-end CV pipeline. CNN trained to 90%+ accuracy. Containerized 
+deployment on GKE via CircleCI.
+**Stack:** TensorFlow · OpenCV · GKE · CircleCI
 
 ---
 
